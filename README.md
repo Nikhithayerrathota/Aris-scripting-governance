@@ -1,5 +1,3 @@
-# Aris-scripting-governance
-
 # ARIS Process Governance & Metamodel Automation: Order-to-Cash (O2C)
 
 ## Executive Summary
