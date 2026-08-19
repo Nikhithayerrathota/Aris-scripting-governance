@@ -1,5 +1,8 @@
 # ARIS Process Governance & Metamodel Automation: Order-to-Cash (O2C)
 
+## Note
+ARIS Scripting operates directly on the ARIS Metamodel layer (ObjDef / ObjOcc) to ensure modeling quality, attribute completeness, and audit readiness before processes are deployed. While ARIS Process Mining and ALM connectors pull transactional event logs directly from ERP systems like SAP, ARIS JavaScript scripts enforce governance over the process catalog itself.
+
 ## Executive Summary
 This repository provides an architectural framework and automated scripting implementation for **Business Process Governance and Data Completeness Verification** using **ARIS Scripting (JavaScript/API)**. Using an end-to-end **Order-to-Cash (O2C)** business process in a modern enterprise organization as a target scenario, this project demonstrates how to programmatically traverse the ARIS metamodel to audit process compliance, enforce data quality, and ensure readiness for downstream **Process Mining** and **Governance, Risk, and Compliance (GRC)** frameworks.
 
