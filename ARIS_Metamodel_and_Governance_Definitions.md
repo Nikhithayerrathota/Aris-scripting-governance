@@ -96,4 +96,4 @@ An active operational step or activity within a process that transforms inputs i
 A passive state change or condition that triggers or results from a process function.
 
 ---
-*Created by **Nikhitha Yerrathota** | Business Process Management & Governance Analyst*
+*Created by **Nikhitha Yerrathota** 
